@@ -1,0 +1,19 @@
+1- Dikey Menü yapmayı anlat. (w3school)
+2- U4 yaptır.
+3- Yatay Menü yapımını göster(w3School)
+4- U5-0 yaptır.
+5- Box-sizing anlat. Sadık Turan
+6- Box-sizing göster html de(sayfa var olan)
+7- Div resimlerinden yerleşimi anlat. 
+8- Div uygulamalarını yap-yaptır.
+
+https://www.sadikturan.com/css/css-box-sizing/1328
+
+
+
+
+
+
+
+
+
